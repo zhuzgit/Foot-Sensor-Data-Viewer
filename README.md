@@ -8,3 +8,5 @@ user E-language to make a app to see the sensor data
 <img width="1570" height="882" alt="7f31f7ba946011ad5c510e6a78f51b88" src="https://github.com/user-attachments/assets/4e3288cd-42e5-412c-bdf7-08cd4d01f736" />
 
 <img width="2439" height="1422" alt="6dc63e9426c160766a6058adfdf6dfd1" src="https://github.com/user-attachments/assets/0182508e-58d9-432d-becb-288a0b2615a4" />
+
+<img width="2460" height="1395" alt="image" src="https://github.com/user-attachments/assets/fecd2956-7538-48a5-b1a7-8588106c5146" />
