@@ -1,6 +1,13 @@
 # seefootsensordata
 user E-language to make a app to see the sensor data
 
+<img width="938" height="755" alt="image" src="https://github.com/user-attachments/assets/d781b823-6380-4627-bbde-cd73cd88ab68" />
+
+<img width="951" height="755" alt="image" src="https://github.com/user-attachments/assets/355e6a55-9358-45b1-87f9-edd1e56d6f07" />
+
+<img width="1398" height="1356" alt="image" src="https://github.com/user-attachments/assets/98637961-c7c9-487a-8b83-3954465a63ad" />
+
+
 <img width="2062" height="1214" alt="image" src="https://github.com/user-attachments/assets/4e7d340b-fdc6-4128-aa9e-0661f01a971c" />
 
 一个完整数据帧，13*3霍尔数据，接触开关数据*4，IMU数据*3
