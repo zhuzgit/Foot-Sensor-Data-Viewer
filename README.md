@@ -1,3 +1,14 @@
+# 20260514
+
+gap.txt 和 state.txt 用于更新判据，更改文本文件后点击更新判据，就可以直接应用TXT中最新的判据，注意txt中采用英文的等号
+
+<img width="1258" height="622" alt="e86cc864f08f4d0e7f7c035b7e8a037e" src="https://github.com/user-attachments/assets/e0f26e30-9f19-465b-9e51-44a23875b802" />
+
+<img width="300" height="572" alt="image" src="https://github.com/user-attachments/assets/f088b3e0-4234-4549-9a66-0a5388bed07c" />
+
+<img width="436" height="224" alt="image" src="https://github.com/user-attachments/assets/f5ffcc4d-6f6a-45fb-adb7-aa5abacfd0ea" />
+
+
 # 1 状态判据
 ## 1.1 能量判据
 S4-S11幅度加和，小于阈值1（5000）输出标记0，大于阈值2（40000）输出标记1，其他输出标记2，第一个标记0，1，2
