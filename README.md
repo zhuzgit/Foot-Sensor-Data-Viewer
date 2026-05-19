@@ -1,3 +1,8 @@
+# 20260519
+
+<img width="1440" height="666" alt="image" src="https://github.com/user-attachments/assets/6d4fce4d-5526-42b5-a991-e3e8eb50eafe" />
+
+
 # 20260514
 
 gap.txt 和 state.txt 用于更新判据，更改文本文件后点击更新判据，就可以直接应用TXT中最新的判据，注意txt中采用英文的等号
